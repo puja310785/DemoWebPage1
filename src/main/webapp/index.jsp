@@ -2,7 +2,7 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:orange;">
+	<body style="background-color:blue;">
 		<p>Hello Puja- you are the future of AQE</p>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		
